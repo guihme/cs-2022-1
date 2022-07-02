@@ -1,0 +1,19 @@
+{
+  "name": "endereco",
+  "version": "1.0.0",
+  "description": "task008",
+  "main": "src/index.ts",
+  "author": "guihme",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc -p .",
+    "start": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "@types/node": "^18.0.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.8.1",
+    "typescript": "^4.7.4"
+  }
+}
