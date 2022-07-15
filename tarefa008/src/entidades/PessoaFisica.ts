@@ -1,5 +1,11 @@
 import { Endereco } from "./Endereco";
 
+/**
+ * Classe que representa uma Pessoa Física
+ * @class PessoaFisica
+ * @author Guilherme Cruz
+ * @data 15/07/2022
+ */
 export class PessoaFisica {
     private _nome: string;
 

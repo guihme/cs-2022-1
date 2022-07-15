@@ -3,6 +3,13 @@ import { Logradouro } from "./Logradouro";
 import { PessoaFisica } from "./PessoaFisica";
 import { TipoEndereco } from "./TipoEndereco";
 
+
+/**
+ * Classe que representa um Endereço
+ * @class Endereço
+ * @author Guilherme Cruz
+ * @data 15/07/2022
+ */
 export class Endereco {
     private _numero: number;
     private _complemento: string;

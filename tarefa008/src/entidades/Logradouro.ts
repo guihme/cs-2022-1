@@ -1,7 +1,13 @@
 import { Endereco } from "./Endereco";
 import { TipoLogradouro } from "./TipoLogradouro";
 
-export class Logradouro{
+/**
+ * Classe que representa um Logradouro
+ * @class Logradouro
+ * @author Guilherme Cruz
+ * @data 15/07/2022
+ */
+export class Logradouro {
 
     private _nome: string;
     private _tipoLogadouro: TipoLogradouro;

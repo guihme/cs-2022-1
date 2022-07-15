@@ -1,6 +1,12 @@
 import { Bairro } from "./Bairro";
 import { Estado } from "./Estado";
 
+/**
+ * Classe que representa uma cidade
+ * @class Cidade
+ * @author Guilherme Cruz
+ * @data 15/07/2022
+ */
 export class Cidade {
     private _nome: string;
 

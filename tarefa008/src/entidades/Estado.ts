@@ -1,6 +1,12 @@
 import { Cidade } from "./Cidade";
 import { Pais } from "./Pais";
 
+/**
+ * Classe que representa um Estado
+ * @class Estado
+ * @author Guilherme Cruz
+ * @data 15/07/2022
+ */
 export class Estado {
     private _sigla: string;
 
